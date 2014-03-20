@@ -1,0 +1,20 @@
+Don't reinvent the wheel
+
+-hide forbidden links
+-clean icons
+-Replace subject with drop down of categories
+
+My Responsibility:
+Set up git for 4 member team
+
+cd /home/cs4540/Tracker
+
+Daryl
+Dalton
+Taylor
+Todd
+
+
+5 Hrs a week as a team
+
+Server will be set up for each team that uses GIT
