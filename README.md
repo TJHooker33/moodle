@@ -1,4 +1,5 @@
 /* Todd Cronin has forked this repository */
+/* Dalton Wallace clone the repo as well! */
 
 moodle-mod_tracker
 ==================
